@@ -9,8 +9,8 @@
   <DefaultLocale>en-us</DefaultLocale>
   <DisplayName DefaultValue="Firma PUCMM"/>
   <Description DefaultValue="Complemento para establecer firma de correo"/>
-  <IconUrl DefaultValue="https://github.com/edrivasclemente/firma/assets/escudo-pucmm.svg"/>
-  <HighResolutionIconUrl DefaultValue="https://github.com/edrivasclemente/firma/assets/escudo-pucmm.svg"/>
+  <IconUrl DefaultValue="https://github.com/edrivasclemente/firma/assets/final-logo.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/edrivasclemente/firma/assets/final-logo.png"/>
   <SupportUrl DefaultValue="https://www.pucmm.edu.do"/>
   <Requirements>
     <Sets DefaultMinVersion="1.1">
